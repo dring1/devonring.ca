@@ -20,7 +20,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 -----
 
 ####Blackberry IoT - Asset Tracking - Fullstack Developer & Lead DevOps
-######May 2015- Present
+######May 2015-Present
 - Designed and developed with small team, solution for tracking shipping containers world wide, leveraging the Blackberry Internet of Things platform
 - Responsible for team of 3 engineers in completing administration application
 - Architected solution for staging and production environments on AWS
@@ -28,7 +28,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 - Technology stack: Docker, Redis, NodeJS, AngularJS, Golang
 
 ####Blackberry IoT (Formerly Dotlinker) - Platform - Fullstack Developer
-######May 2014- April 2014
+######May 2014-April 2015
 - Designed and implemented components to enable scalability, security, searching for the Blackberry IoT platform
 - Rewrote core parts of back end from ruby on rails to scala.
 - Designed and created Asset Tracking Demo used for Consumer Electronic Show 2015 in Las Vegas
@@ -36,6 +36,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 - Technology stack: CassandraDB, Elastichsearch, Vertx, Docker, NodeJS, AngularJS, Ruby (Rails), Java, Scala
 
 ####Bank of Canada - Information Technology Technician
+######May 2012-April 2014
 * Coordinator and facilitator of 2012-2013 company wide Windows 7 upgrade. Involved the entirety of the Bank’s personal and research systems to new hardware and software.  Approximately 1600 systems.
 
 
