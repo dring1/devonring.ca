@@ -42,7 +42,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 
 ###Personal Projects
 ----
-####[lousylandlord.ca](lousylandlord.ca)
+####lousylandlord.ca
 * Offers users the tools to contribute rental property addresses and comments of negligent landlords.
 * Google Maps integration to visually show the location of landlords’ rental properties.
 * Technology stack: NodeJS, AngularJS, Ionic, MongoDb
@@ -52,11 +52,11 @@ A proactive employee and team player with proven respect for co-workers and clie
 * Allow users to listen to a stream the newest music submitted to the Music subreddit
 * Technology stack: Golang, websockets, ReactJS, BoltDb
 
-####[devonring.ca](devonring.ca)
+####devonring.ca
 * Portfolio website
 
 ####fAuth
-* A ruby on rails implementation of a two-factor authentication system requiring users to provide both a password as well as a token file. 
+* A ruby on rails implementation of a two-factor authentication system requiring users to provide both a password as well as a token file.
 * Demo available at: https://fauth.herokuapp.com
 
 ###Technical Skills & Abilities
@@ -79,7 +79,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 * Bash
 * Java, Scala
 * HTML, CSS, SASS, LESS
-* Full list available at [devonring.ca](devonring.ca)
+* Full list available at devonring.ca
 
 ####OS
 * Linux
