@@ -6,15 +6,16 @@
 #####Github: @dring1
 
 
-### Profile
+###Profile
 -----
-A proactive employee and team player with proven respect for co-workers and clients. Experience working with a veteran engineering team enabled the ability to learn best practices and acquire skills for new technologies quickly.
+Full stack software engineer with expertise in APIs and web services. Comfortable implementing front-end user experiences, managing server side scalability and concurrency, and deploying and admining servers. Experienced in building sophisticated distributed systems using REST APIs. Product focused and deeply passionate about solving interesting problems.
+
+I actively contribute to open source tools and projects available on my github.com/dring1.
 
 ###Education
 -----
 #####Carleton University (2009-2014)
 * Computer Science Honours, focus in computer and internet security
-* Dean's Honours List
 
 ###Professional Experience
 -----
@@ -49,7 +50,7 @@ A proactive employee and team player with proven respect for co-workers and clie
 
 ####gopheringdj
 * Project is a work in progress
-* Allow users to listen to a stream the newest music submitted to the Music subreddit
+* Allow users to listen to a stream of the newest music submitted to the Music subreddit
 * Technology stack: Golang, websockets, ReactJS, BoltDb
 
 ####devonring.ca
@@ -72,13 +73,15 @@ A proactive employee and team player with proven respect for co-workers and clie
 * Test Driven Development
 * Rapid Development
 
-####Languages & Frameworks
+####Technical Skills
 * Ruby, Rails, JRuby
 * Javascript, ES6, ReactJS, NodeJS, AngularJS, Grunt, Gulp, Webpack
 * Golang
 * Bash
-* Java, Scala
-* HTML, CSS, SASS, LESS
+* Java
+* HTML, CSS, SASS
+* AWS - EC2, CloudFront, Beanstalk, Elasticache
+* NoSQL and SQL Databases
 * Full list available at devonring.ca
 
 ####OS
