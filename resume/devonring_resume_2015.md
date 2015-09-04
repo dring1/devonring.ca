@@ -2,13 +2,13 @@
 ## `Devon Ring`
 #####Email: devon.ring@gmail.com
 #####Phone: 613 898 4597
-#####Porfolio: devonring.ca
-#####Github: @dring1
+#####Website: devonring.ca
+#####Github: dring1
 
 
 ###Profile
 -----
-Full stack software engineer with expertise in APIs and web services. Comfortable implementing front-end user experiences, managing server side scalability and concurrency, and deploying and admining servers. Experienced in building sophisticated distributed systems using REST APIs. Product focused and deeply passionate about solving interesting problems.
+Full stack software engineer with expertise in APIs and web services. Comfortable implementing front-end user experiences, managing server side scalability and concurrency, deploying and admining servers. Experienced in building sophisticated distributed systems using REST APIs. Product focused and deeply passionate about solving interesting problems.
 
 I actively contribute to open source tools and projects available on my github.com/dring1.
 
@@ -20,17 +20,17 @@ I actively contribute to open source tools and projects available on my github.c
 ###Professional Experience
 -----
 
-####Blackberry IoT - Asset Tracking - Fullstack Developer & Lead DevOps
+####BlackBerry IoT - Asset Tracking - Fullstack Developer & Lead DevOps
 ######May 2015-Present
-- Designed and developed with small team, solution for tracking shipping containers world wide, leveraging the Blackberry Internet of Things platform
+- Designed and developed with small team, solution for tracking shipping containers world wide, leveraging the BlackBerry Internet of Things platform
 - Responsible for team of 3 engineers in completing administration application
 - Architected solution for staging and production environments on AWS
-- Responsible for continuous integration and deployments
+- Responsible for continuous integration/deployments
 - Technology stack: Docker, Redis, NodeJS, AngularJS, Golang
 
-####Blackberry IoT (Formerly Dotlinker) - Platform - Fullstack Developer
+####BlackBerry IoT (Formerly Dotlinker) - Platform - Fullstack Developer
 ######May 2014-April 2015
-- Designed and implemented components to enable scalability, security, searching for the Blackberry IoT platform
+- Designed and implemented components to enable scalability, security, searching for the BlackBerry IoT platform
 - Rewrote core parts of back end from ruby on rails to scala.
 - Designed and created Asset Tracking Demo used for Consumer Electronic Show 2015 in Las Vegas
 - Desgined and created Car Diagnostics Demo for Mobile World Conference 2015 in Barcelona
@@ -72,6 +72,7 @@ I actively contribute to open source tools and projects available on my github.c
 * Prototyping
 * Test Driven Development
 * Rapid Development
+* 12 Factor Application
 
 ####Technical Skills
 * Ruby, Rails, JRuby
@@ -82,9 +83,9 @@ I actively contribute to open source tools and projects available on my github.c
 * HTML, CSS, SASS
 * AWS - EC2, CloudFront, Beanstalk, Elasticache
 * NoSQL and SQL Databases
+* Docker, Vagrant
 * Full list available at devonring.ca
 
 ####OS
-* Linux
-* Unix
+* Linux/Unix
 * OSX
