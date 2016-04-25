@@ -19,7 +19,6 @@ I actively contribute to open source tools and projects available on my github.c
 
 ### Professional Experience
 -----
-
 #### BlackBerry Radar - Fullstack Developer & Lead DevOps
 ###### May 2015-Present
 - Designed and developed with small team, solution for tracking shipping containers world wide, leveraging the BlackBerry Internet of Things platform
@@ -56,9 +55,6 @@ I actively contribute to open source tools and projects available on my github.c
 * Technology stack: NodeJS, AngularJS, Ionic, MongoDb
 
 #### gopheringdj
-
-* Project is a work in progress
-* Uses reddit and github public apis
 * Allow users to listen to a stream of the newest music submitted to the music subreddit
 * Leverages github o-auth to authenticate users
 * API is accessed securely using json web tokens
@@ -89,7 +85,7 @@ I actively contribute to open source tools and projects available on my github.c
 * Docker, Vagrant
 * Full list available at devonring.ca
 
-#### Text Editor
+#### Text Editors
 * Vim
 * atom
 * sublime
