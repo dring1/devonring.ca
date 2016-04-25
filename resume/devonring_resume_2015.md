@@ -83,6 +83,7 @@ I actively contribute to open source tools and projects available on my github.c
 * AWS - EC2, CloudFront, Beanstalk, Elasticache, ECS
 * NoSQL and SQL Databases
 * Docker, Vagrant
+* OSX, Linux, Unix
 * Full list available at devonring.ca
 
 #### Text Editors
@@ -95,7 +96,3 @@ I actively contribute to open source tools and projects available on my github.c
 * Datadog
 * OpsGenie
 * JenkinsCi
-
-#### Operating Systems
-* Linux/Unix
-* OSX
