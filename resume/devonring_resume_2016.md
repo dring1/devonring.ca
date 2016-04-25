@@ -56,7 +56,7 @@ I actively contribute to open source tools and projects available on my github.c
 
 #### gopheringdj
 * Allow users to listen to a stream of the newest music submitted to the music subreddit
-* Implemented using Single Page Application architecture. The web application (frontend) accesses the RESTful API server API is accessed securely using json web tokens
+* Implemented using Single Page Application architecture. The web application (frontend) accesses the RESTful API server securely using json web tokens
 * Leverages github o-auth to authenticate users
 * Technology stack: Golang, websockets, ReactJS, BoltDb, JWT
 
