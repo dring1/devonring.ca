@@ -60,9 +60,6 @@ I actively contribute to open source tools and projects available on my github.c
 * Leverages github o-auth to authenticate users
 * Technology stack: Golang, websockets, ReactJS, BoltDb, JWT
 
-#### devonring.ca
-* Portfolio website
-
 #### fAuth
 * A ruby on rails implementation of a two-factor authentication system requiring users to provide both a password as well as a token file.
 * Demo available at: https://fauth.herokuapp.com
