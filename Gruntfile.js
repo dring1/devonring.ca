@@ -6,7 +6,7 @@ module.exports = function(grunt) {
       all: {
         options:{
           port: 9000,
-          hostname: "0.0.0.0",
+          // hostname: "0.0.0.0",
           // Prevents Grunt to close just after the task (starting the server) completes
           // This will be removed later as `watch` will take care of that
           keepalive: true
@@ -53,6 +53,7 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-jshint');
+  grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-qunit');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-concat');
